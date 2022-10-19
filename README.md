@@ -13,3 +13,5 @@ Just follow the tutor carefully
 ## Compare files in Git
 Adding text 
 >>>>>>> develop
+## Add rebase lectures 
+Here are the commands for rebase 
