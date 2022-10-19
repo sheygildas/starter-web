@@ -13,5 +13,8 @@ Just follow the tutor carefully
 ## Compare files in Git
 Adding text 
 >>>>>>> develop
+<<<<<<< HEAD
 ## Add rebase lectures 
 Here are the commands for rebase 
+=======
+>>>>>>> ddf988d (Rebase)
