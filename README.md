@@ -15,6 +15,7 @@ Adding text
 >>>>>>> develop
 <<<<<<< HEAD
 ## Add rebase lectures 
+Welcome to today's lactures
 Here are the commands for rebase 
 =======
 >>>>>>> ddf988d (Rebase)
